@@ -612,6 +612,9 @@
     padding: 0px 4px 0px 4px;
     width: 95%;
   }
+  .section1__text p {
+    color: #0000ffcc;
+  }
   .section1__buttons {
     max-width: none;
     margin: 0;
